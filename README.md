@@ -1,2 +1,2 @@
 # RFProTouch
-RF Pro Touch Images
+RF Pro Touch SD Images
